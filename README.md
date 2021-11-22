@@ -1,1 +1,1 @@
-# thumbnails-app-
+# thumbnails-app
